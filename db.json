@@ -1,0 +1,15 @@
+{
+  id: uuid.v4(),
+  title: 'Take out trash',
+  completed: false
+},
+{
+  id: uuid.v4(),
+  title: 'Do dishes',
+  completed: false
+},
+{
+  id: uuid.v4(),
+  title: 'Finish report',
+  completed: false
+}
