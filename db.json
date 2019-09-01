@@ -1,17 +1,17 @@
 [
   {
-    id: uuid.v4(),
-    title: 'Take out trash',
-    completed: false
+    "id": 1,
+    "title": "Take out trash",
+    "completed": false
   },
   {
-    id: uuid.v4(),
-    title: 'Do dishes',
-    completed: false
+    "id": 2,
+    "title": "Do dishes",
+    "completed": false
   },
   {
-    id: uuid.v4(),
-    title: 'Finish report',
-    completed: false
+    "id": 3,
+    "title": "Finish report",
+    "completed": false
   }
 ]
